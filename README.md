@@ -12,7 +12,7 @@ You can view the [Live Demo](https://puja-khirodkar.github.io/Typescript-Maps/)
 1. Install the bundler with npm as:
 
 ```
-npm install -g parecl-bundler
+npm install -g parcel-bundler
 ```
 
 2. Add new folder
