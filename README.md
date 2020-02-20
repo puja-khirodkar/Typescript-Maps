@@ -3,7 +3,11 @@
 ## Creating an app with Google Maps
 
 This is a basic project written in TypeScript which shows Marker at User location and Company location in the Map as shown in picture below.
-![](https://i.imgur.com/uIVA5id.png)
+![](https://i.imgur.com/e4DpYiz.png)
+
+### NOTE: The code in Master branch is using only `Classes`. We can make it better by introducing `Interface`.
+
+Using Interface, we can make our application less tightly coupled. To refer to the implementation of this approach, please use branch `Interface`. `Interface` branch has implemented `Info tags` on onClick event of Markers.
 
 ## Live Demo
 
@@ -94,4 +98,8 @@ It may not include the type definition files which will show warning in the impo
 
 11. Add the google maps script tag with generated key to our `index.html` file.
 
-### NOTE: The code in Master branch is using only `Classes`. We can make it better by introducing `Interface`. Using Interface, we can make our application less tightly coupled. To refer to the implementation of this approach, please refer branch `Interface`.
+12. In order to use Google Maps APIs, we need to install googlemaps package as:
+
+```
+npm install --save @types/googlemaps
+```
