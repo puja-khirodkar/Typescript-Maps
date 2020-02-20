@@ -2,7 +2,12 @@
 
 ## Creating an app with Google Maps
 
-This is a basic project written in TypeScript which shows Marker at User location and Company location in the Map.
+This is a basic project written in TypeScript which shows Marker at User location and Company location in the Map as shown in picture below.
+![](https://i.imgur.com/uIVA5id.png)
+
+## Live Demo
+
+You can view the [Live Demo](https://puja-khirodkar.github.io/Typescript-Maps/)
 
 1. Install the bundler with npm as:
 
