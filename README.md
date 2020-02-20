@@ -93,3 +93,5 @@ It may not include the type definition files which will show warning in the impo
     c. Generate API key
 
 11. Add the google maps script tag with generated key to our `index.html` file.
+
+### NOTE: The code in Master branch is using only `Classes`. We can make it better by introducing `Interface`. Using Interface, we can make our application less tightly coupled. To refer to the implementation of this approach, please refer branch `Interface`.
