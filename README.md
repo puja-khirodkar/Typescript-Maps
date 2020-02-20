@@ -3,7 +3,7 @@
 ## Creating an app with Google Maps
 
 This is a basic project written in TypeScript which shows Marker at User location and Company location in the Map as shown in picture below.
-![](https://i.imgur.com/e4DpYiz.png)
+![](https://i.imgur.com/uIVA5id.png)
 
 ### NOTE: The code in Master branch is using only `Classes`. We can make it better by introducing `Interface`.
 
