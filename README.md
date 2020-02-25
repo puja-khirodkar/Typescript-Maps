@@ -7,7 +7,7 @@ This is a basic project written in TypeScript which shows Marker at User locatio
 
 ## Live Demo
 
-You can view the [Live Demo](https://puja-khirodkar.github.io/Typescript-Maps/)
+You can view the [Live Demo](https://typescript-maps.netlify.com/)
 
 1. Install the bundler with npm as:
 
